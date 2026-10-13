@@ -1,1 +1,0 @@
-pandas\nnumpy\nmatplotlib\nseaborn\nscipy\nkagglehub\nreportlab\npython-pptx\nnbformat\n
