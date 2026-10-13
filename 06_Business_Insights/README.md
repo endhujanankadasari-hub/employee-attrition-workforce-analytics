@@ -1,9 +1,8 @@
 # Business Insights
 
-This folder organizes the **Employee Attrition & Workforce Analytics using Python** project.
+This folder summarizes the key findings and business recommendations from the Employee Attrition & Workforce Analytics project.
 
-- Summarize observed patterns supported by the loaded data.
-- Develop practical, evidence-aware recommendations for HR.
-- Discuss limitations and avoid treating associations as causes.
-
-**Main implementation:** [`../Employee_Attrition_Workforce_Analytics.ipynb`](../Employee_Attrition_Workforce_Analytics.ipynb)
+- Summarize observed attrition patterns supported by the dataset.
+- Highlight important factors associated with employee attrition.
+- Provide practical, evidence-aware recommendations for HR.
+- Discuss project limitations and avoid treating associations as causal.
