@@ -2,7 +2,7 @@ pandas
 numpy
 matplotlib
 seaborn
-python-pptx
-reportlab
 scipy
 kagglehub
+python-pptx
+reportlab
